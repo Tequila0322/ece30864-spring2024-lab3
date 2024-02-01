@@ -1,20 +1,2 @@
 A)
 In non-Agile projects, the role equivalent to a Product Owner is often the Project Manager or Product Manager. This role focuses on ensuring the project meets the predefined requirements, stays within budget, and is completed on time, aligning the project's outcomes with business objectives. In Agile, the Product Owner is crucial for defining the product vision, prioritizing the backlog, and ensuring the development team delivers value to the business and its customers.
-
-B)
-A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. Product Owners manage the product backlog and ensure the company gains maximum value from the product. The product backlog is a crucial component of Agile product development.
-
-C)
-During a sprint cycle, the three types of meetings are:
-
-Sprint Planning:
-What can be delivered in the upcoming sprint.
-How the work will be achieved (task breakdown).
-
-Daily Scrum (Stand-up):
-What was accomplished since the last meeting.
-What will be done before the next meeting.
-
-Sprint Review and Retrospective:
-Review: What was completed/not completed, demo of the work.
-Retrospective: What went well, what could be improved for the next sprint.
