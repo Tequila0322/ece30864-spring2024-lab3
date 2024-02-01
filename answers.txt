@@ -3,3 +3,27 @@ In non-Agile projects, the role equivalent to a Product Owner is often the Proje
 
 B)
 A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. Product Owners manage the product backlog and ensure the company gains maximum value from the product. The product backlog is a crucial component of Agile product development.
+
+C)
+During a sprint cycle, the three types of meetings are:
+
+Sprint Planning:
+What can be delivered in the upcoming sprint.
+How the work will be achieved (task breakdown).
+
+Daily Scrum (Stand-up):
+What was accomplished since the last meeting.
+What will be done before the next meeting.
+
+Sprint Review and Retrospective:
+Review: What was completed/not completed, demo of the work.
+Retrospective: What went well, what could be improved for the next sprint.
+
+D)
+Epic: A large body of work that can be broken down into smaller tasks (stories). It's a container for a significant feature or requirement that spans multiple sprints.
+
+Story: A user story is a short, simple description of a feature from the perspective of the end user or customer. It's a smaller, actionable piece of work that delivers value.
+
+Bug: A problem or error in the system that needs to be fixed. It represents a deviation from the expected or correct behavior of the software.
+
+Task: A generic work item that needs to be done but doesn't necessarily result in a change to the product itself. It could be related to project management or maintenance activities.
